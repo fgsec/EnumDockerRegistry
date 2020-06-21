@@ -1,2 +1,3 @@
-# EnumDockerRegistry
-Enumerate Docker Registry for Passwords, Keys and Tokens
+# Enumerate Docker Registry
+
+This tool enumerates a docker registry for "hidden" goodies inside manifests. 
